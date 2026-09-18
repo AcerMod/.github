@@ -11,4 +11,7 @@ Also we are releasing a full desktop app soon when v3.0 comes out~~
 
 if you want to try the desktop app out, please wait until October 21st, 2026.
 
+## Contributions
 We hope everyone gets a chance to be on their Acer computer and have fun on AcerMod!
+
+# EOF
